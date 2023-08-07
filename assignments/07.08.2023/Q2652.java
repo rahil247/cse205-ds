@@ -1,5 +1,5 @@
-class Solution {
-    public int sumOfMultiples(int n) {
+class Q2652 {
+    public static int sumOfMultiples(int n) {
         int sum =0;
         for(int i =1; i<=n;i++){
             if(i%3==0 || i%5==0 || i%7==0 ){

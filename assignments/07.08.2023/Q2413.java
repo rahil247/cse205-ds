@@ -1,4 +1,4 @@
-class Solution {
+class Q2413 {
     public int smallestEvenMultiple(int n) {
         int ans;
         if(n%2==0){
