@@ -4,7 +4,7 @@ public class Q231 {
             return true;
         }
 
-        if(n==0){
+        if(n<=0){
             return false;
         }
 
