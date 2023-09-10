@@ -6,7 +6,6 @@ class ListNode {
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  }
 
-
 public class Q19{
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode start = new ListNode();
